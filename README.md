@@ -6,7 +6,7 @@ Welcome to my personal developer portfolio. This website showcases who I am, the
 
 ## 🚀 Live Demo
 
-👉 [Click here to view the portfolio](#)  
+👉 [https://june-portfolio-virid.vercel.app/](#)  
 
 
 ## ✨ Features
