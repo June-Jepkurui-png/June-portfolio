@@ -55,4 +55,4 @@ Feel free to reach out!
 
 ---
 
-> Built with ❤️ by June Jepkurui
+> Built with ❤️ by June Jepkurui.
