@@ -46,7 +46,7 @@ Feel free to reach out!
 
 ---
 
-## Future Improvements
+## Future Improvements.
 
 - Add more project cards with links
 - Integrate JavaScript for interactive features
