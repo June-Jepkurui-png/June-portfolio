@@ -48,7 +48,7 @@ Feel free to reach out!
 
 ## Future Improvements.
 
-- Add more project cards with links
+- Add more project cards with links.
 - Integrate JavaScript for interactive features
 - Deploy the website using GitHub Pages or Netlify
 - Add a contact form that sends emails
